@@ -32,13 +32,25 @@ Bu proje listesi, çeşitli veri yapılarını öğrenmek ve uygulamak için ba�
 
 - İkili Ağaç Uygulaması ve Temel İşlemler (Ekleme, Silme, Gezinme)
 - İkili Arama Ağacı Uygulaması ve Temel İşlemler
-- Ağaçları Kullanarak Derinlik-Öncelikli Arama (Depth-First Search) Algoritması
+- Ağaçları Kullanarak Derinlik-Öncelikli Arama (Depth-First Search) - Algoritması
+- İkili Ağaç (Binary Tree)
+- İkili Arama Ağacı (Binary Search Tree)
+- Kırmızı-Siyah Ağaç (Red-Black Tree)
+- AVL Ağacı
+- Çoklu Ağaç (Multiway Tree)
+- Örümcek Ağaç (Trie)
 
 ## Graf (Graph)
 
 - Graf Uygulaması ve Temel İşlemler (Ekleme, Silme)
 - Graf Temelli Algoritmalar (En Kısa Yol, En Kısa Yol Bulma)
 - Ağaç Grafı Uygulaması ve Temel İşlemler
+- Yönlendirilmemiş Graf (Undirected Graph)
+- Yönlendirilmiş Graf (Directed Graph)
+- Ağırlıklı Graf (Weighted Graph)
+- Çoklu Graf (Multigraph)
+- Döngülü Graf (Cyclic Graph)
+- Ağaç Grafı (Tree Graph)
 
 ## Hash Tablosu (Hash Table)
 
@@ -57,9 +69,21 @@ Bu proje listesi, çeşitli veri yapılarını öğrenmek ve uygulamak için ba�
 
 - Heap Uygulaması ve Temel İşlemler (Ekleme, Silme, En Küçük/En Büyük Öğeyi Alma)
 
+## Kuyruk (Queue)
+
+## Öncelik Kuyruğu (Priority Queue)
+
+## Çift Yönlü Kuyruk (Deque)
+
 ## Disjoint Set (Birleşik Küme)
 
 - Birleşik Küme Uygulaması ve Temel İşlemler (Birleştirme, Sorgulama)
+
+## İstasyon (Stack ve Queue'un birleşimi)
+
+## İlkel Veri Tipleri (Primitive Data Types) ve Bunların Dizi ile Temsili
+
+## İmza Kuyruğu (Signature Queue)
 
 ## Blok Zincir (Blockchain)
 
